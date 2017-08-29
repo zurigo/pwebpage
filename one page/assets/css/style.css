@@ -608,11 +608,10 @@ input:-ms-input-placeholder {
 }
 .home{
 	background:url(../images/zurismac.jpg) no-repeat center;
-	background-size: 1200px, 1200px;
-
+	background-size: 1800px, 1200px;
 }
 .main_home_content .logo_img{
-	margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .main_home_content h2{
