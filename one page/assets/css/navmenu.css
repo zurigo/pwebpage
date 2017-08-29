@@ -114,8 +114,8 @@ Main components
     /* hamburger icon */
     position: relative;
     display: inline-block;
-    width: 18px;
-    height: 2px;
+    width: 20px;
+    height: 4px;
     background-color: #f56363;
     vertical-align: middle;
     -webkit-transform: translateY(-2px);

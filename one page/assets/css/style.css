@@ -314,7 +314,7 @@ section .subtitle-half h5 {
     width: 100%;
 }
 .home-overlay-fluid {
-    /*background-color: rgba(41, 41, 41, 0.68);*/
+    background-color: rgba(41, 41, 41, 0.68);
     width: 100%;
     padding: 200px 0px 500px 0px;
     color: #fff;
@@ -607,12 +607,12 @@ input:-ms-input-placeholder {
 	overflow:hidden;
 }
 .home{
-	background:url(../images/zurismac.jpg) no-repeat top center;
+	background:url(../images/zurismac.jpg) no-repeat center;
 	background-size: 1200px, 1200px;
 
 }
 .main_home_content .logo_img{
-	margin-bottom:5px;
+	margin-bottom: 0px;
 }
 
 .main_home_content h2{
