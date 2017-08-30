@@ -698,17 +698,20 @@ input:-ms-input-placeholder {
 .about_bottom_content a {
 	margin-left: 20px;
 }
-.about_bottom_content a img{}
+.about_bottom_content a img{
+  color: blue;
+}
 
 
 
 
 /*features section */
 
-.features{
-	background:url(../images/zurispic.jpg) no-repeat top center;
+/*.features{
+	background:url(assets/images/zuriscpic.jpg) no-repeat top center;
 	background-size:cover;
-}
+  background-size: 1400px, 500px;
+}*/
 .features_overlay{
     background: rgba(0, 0, 0, 0.6);
     padding: 100px 100px 300px 100px;
@@ -745,7 +748,7 @@ input:-ms-input-placeholder {
 }
 
 /* Tiny forest section */
-
+/*
 .tinyforest{
 	background:url(../images/tinybg.jpg) no-repeat top center;
 	background-size:cover;
@@ -773,7 +776,7 @@ blockquote {
 	color:#000000;
 	font-size:12px;
 	font-family: 'open_sansbold';
-}
+}*/
 
 /* Cool Autumn Section */
 

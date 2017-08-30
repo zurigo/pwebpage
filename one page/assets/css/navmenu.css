@@ -168,7 +168,7 @@ Main components
     left: 0;
     width: 100%;
     height: 100%;
-    background: #F9F9F9;
+    background: #ee3fa8;
     /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translateZ(0);
     -webkit-backface-visibility: hidden;
@@ -198,7 +198,7 @@ Main components
     display: block;
     padding: 0 10%;
     height: 100%;
-    border-bottom: 1px solid #dfdbec;
+    border-bottom: 1px solid blue;
     color: #3a393f;
     font-size: 20px;
     font-size: 1.25rem;
