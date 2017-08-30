@@ -63,7 +63,7 @@ section:nth-child(even){
 
 
 img {
-    -moz-user-select: none;
+    -moz-photo-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
@@ -548,7 +548,7 @@ input:-ms-input-placeholder {
   width: 100%;
   overflow: hidden;
 }*/
- navbar section
+ /*navbar section*/
 .menu-scroll {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -634,9 +634,9 @@ input:-ms-input-placeholder {
 
 /* about Section */
 .user_seperator{
-    position: absolute;
+    position:  inherit;
     left: 45%;
-    top:-140px;
+    /*top:-140px;*/
     z-index: 99;
 }
 .user_seperator a i{
@@ -1224,3 +1224,13 @@ a.s_f_8:hover{
 	text-decoration: none;
 
 }
+
+
+
+.photo {
+    width: 50%;
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

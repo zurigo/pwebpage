@@ -150,7 +150,7 @@
 .lnr-bookmark:before {
 	content: "\e829";
 }
-.lnr-user:before {
+.photo:before {
 	content: "\e82a";
 }
 .lnr-users:before {
