@@ -650,7 +650,7 @@ input:-ms-input-placeholder {
     border: 2px solid #ddd;
 }
 .about{
-    background: url(images/zurisgo abc.jpg) no-repeat 100% 100%;
+    background: url(../images/zurisgo abc.jpg) no-repeat 100% 100%;
     background-size: cover;
 	position:relative;
 
