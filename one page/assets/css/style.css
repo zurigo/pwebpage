@@ -1054,8 +1054,9 @@ footer.singup{
 /* contact section */
 
 .contact{
-	background:url(../images/zurisgoabc.jpg) no-repeat top center;
-	background-size:cover;
+	background:url(../images/zurisgoabc.jpg) no-repeat;
+	background-size: 1200px;
+  background-position: bottom;
 }
 .main_contact{
 
