@@ -59,6 +59,7 @@ section:nth-child(even){
 
 .bangbang{
 	transform: rotate(-5deg);
+  background-color: #c23a8369;
 }
 
 
